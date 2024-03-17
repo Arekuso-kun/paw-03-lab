@@ -1,0 +1,77 @@
+:root {
+    color: #F8EDFF;
+}
+
+body {
+    background-color: #3D3B40;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #525CEB;
+    padding: 20px;
+}
+
+.title {
+    text-align: center;
+    margin: 0;
+}
+
+main {
+    padding-bottom: 100px;
+}
+
+.profile {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.profile img {
+    width: 15%;
+    border-radius: 50%;
+}
+
+.hobbies {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.hobbies img {
+    width: 12px;
+    padding-right: 5px;
+}
+
+ul {
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    padding: 10px;
+    background-color: #525CEB;
+}
+
+.contact {    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contact h3 {
+    margin: 0;
+}
+
+.contact img {
+    width: 50px;
+    padding-left: 10px;
+}
+
